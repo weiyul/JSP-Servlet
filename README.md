@@ -1,2 +1,4 @@
-# JSP-Servlet
-My web site built with JSP&amp;Servlet
+appengine-skeleton
+=============================
+
+This is a generated application from the appengine-skeleton archetype.
